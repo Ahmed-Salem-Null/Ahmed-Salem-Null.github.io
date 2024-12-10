@@ -866,9 +866,6 @@ html {
     text-transform: uppercase;
 }
 
-.innerpage-single-area {
-    padding-top: 115px !important;
-}
 
 /*
 * ----------------------------------------------------------------------------------------
@@ -1290,6 +1287,7 @@ html {
 	padding:10px;
 	border-radius: 50%;
 	margin-bottom: 30px;
+max-width: 63% !important;
 }
 
 .about-image-part h2 {
@@ -1361,7 +1359,7 @@ color: transparent;
 
 .about-social ul li {
     display: inline-block;
-    margin: 0px 15px;
+    margin: 0px 8px;
 }
 
 .about-social ul li a {
