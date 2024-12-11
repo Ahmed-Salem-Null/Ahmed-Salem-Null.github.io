@@ -1,38 +1,3 @@
-﻿/*
-* ----------------------------------------------------------------------------------------
-Author       : Themesvila
-Template Name: Dorbesh - Personal Portfolio HTML Template
-Version      : 1.0                                          
-* ----------------------------------------------------------------------------------------
-*/
-
-/*
-* ----------------------------------------------------------------------------------------
-* 01.GLOBAL CSS STYLE
-* 02.COMMON CSS STYLE
-* 03.MENU CSS STYLE
-* 04.HEADER CSS STYLE
-* 05.ABOUT CSS STYLE
-* 06.SERVICE CSS STYLE
-* 07.SKILL CSS STYLE
-* 08.RESUME CSS STYLE
-* 09.PORTFOLIO CSS STYLE
-* 10.TESTIMONIALS CSS STYLE
-* 11.PRICING CSS STYLE
-* 12.CLIENTS CSS STYLE
-* 13.CONTACT CSS STYLE
-* 14.FOOTER CSS STYLE
-* 15.PRELOADER & BOUNCE CCS STYLE
-* 16.BLOG CSS STYLE
-* ----------------------------------------------------------------------------------------
-*/
-
-
-/*
-* ----------------------------------------------------------------------------------------
-* 01.GLOBAL STYLE
-* ----------------------------------------------------------------------------------------
-*/
 :root {
     --main-color: #444;
     --heading-color: #000;
@@ -2418,7 +2383,7 @@ color: #fff;
 }
 .call-to-action-area {
     padding-top: 15px;
-    
+
 }
 .call-to-action-part  h2{
     font-size: 40px;

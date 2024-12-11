@@ -1,17 +1,11 @@
-/*
-* ----------------------------------------------------------------------------------------
-Author       : Themesvila
-Template Name: Dorbesh - Personal Portfolio HTML Template
-Version      : 1.0                                          
-* ----------------------------------------------------------------------------------------
-*/
+
 
 (function($) {
 
     "use strict";
 
 	jQuery(document).on('ready', function(){
-	
+
 
 
 
@@ -228,8 +222,8 @@ Version      : 1.0
 
 
     });
-	
-	
+
+
         // ## Project Filter
         $(".project-filter li").on('click', function() {
             $(".project-filter li").removeClass("current");
@@ -247,7 +241,7 @@ Version      : 1.0
             });
 
         });
-		
+
         /*
          * ----------------------------------------------------------------------------------------
          *  MAGNIFIC POPUP JS
@@ -291,8 +285,8 @@ Version      : 1.0
             });
 
         };
-        // Call the functions 
-        magnifPopup();	
+        // Call the functions
+        magnifPopup();
 
         // ## Testimonials Active
         if ($('.testimonials-wrap').length) {
@@ -316,7 +310,7 @@ Version      : 1.0
                 }]
             });
         }
-		
+
     /* ==========================================================================
        When document is resize, do
        ========================================================================== */
@@ -440,9 +434,9 @@ Version      : 1.0
 
     });
 
-	/*START MAP JS*/		
+	/*START MAP JS*/
 	$(".map").hide();
-	
+
 	/*START SHOW FUNCTION*/
 	$(".map_title").on('click', function(){
 	$(".map").show(500);
@@ -456,6 +450,6 @@ Version      : 1.0
 	});
 	/*END MAP JS*/
 
-    
+
 
 })(window.jQuery);
