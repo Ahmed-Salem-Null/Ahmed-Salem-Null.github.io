@@ -31,9 +31,3 @@ Full Stack Developer, Software Engineer<br/>
 
 ![Languages and Tools](https://skillicons.dev/icons?i=html,css,php,laravel,phpstorm,less,sass,jquery,bootstrap,windicss,tailwindcss,threejs,redux,materialui,nextjs,mysql,postgresql,sqlite,mongodb,angular,react,dart,kotlin,flutter,github,gitlab,gradle,git,markdown,figma,firebase,wordpress,androidstudio,atom,heroku,idea,eclipse,ubuntu,docker,aws,gcp,stackoverflow,devto,mastodon,codepen,webflow,webstorm&theme=light&perline=16)
 
-
-## Github Stats 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Salem-Null&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Salem-Null&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-
