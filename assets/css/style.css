@@ -1382,14 +1382,11 @@ color: transparent;
     transform: rotate(-45deg);
 }
 
-
-
-
 .scroller__inner {
-    padding-block: 1rem;
+    padding-block: 0rem;
     display: flex;
     flex-wrap: wrap;
-    gap: 1rem;
+    gap: 3rem;
 }
 
 .scroller__inner h4 {
