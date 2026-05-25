@@ -30,7 +30,19 @@ body {
 
 }
 
+p.email {
+    margin-bottom: 0px;
+    line-height: 22px;
+    color: var(--primary-color);
+}
 
+span.hig {
+    color: var(--primary-color);
+}
+
+span.h5 {
+    font-size: 15px;
+}
 
 
 .heading,
@@ -1260,12 +1272,12 @@ max-width: 63% !important;
 }
 
 .about-content-part h2 {
-	font-size: 42px;
-	line-height: 52px;
-	margin-bottom: 20px;
+	font-size: 30px;
+	line-height: 27px;
+	margin-bottom: 18px;
 	font-weight: 700;
 	text-transform: uppercase;
-	letter-spacing: 0.5px;
+	letter-spacing: 1px;
 }
 
 .about-content-part h2 span {
@@ -1381,8 +1393,9 @@ color: transparent;
 }
 
 .scroller__inner h4 {
-    margin-right: 30px;
+    margin-right: 10px;
 	margin-bottom: 0;
+    font-size: 18px;
 }
 
 .scroller[data-animated="true"] {
