@@ -1386,7 +1386,7 @@ color: transparent;
     padding-block: 0rem;
     display: flex;
     flex-wrap: wrap;
-    gap: 3rem;
+    gap: 2rem;
 }
 
 .scroller__inner h4 {
