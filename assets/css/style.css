@@ -171,6 +171,11 @@ footer:after {
     content: "";
 }
 
+a.nav-link-click {
+    color: var(--primary-color) !important;
+    font-weight: 600 !important;
+}
+
 input,
 select,
 textarea,
@@ -415,6 +420,7 @@ html {
 	background: transparent;
 	border: 1px solid #000;
 	color: #000;
+    font-weight: 600 !important;
 }
 
 .menu-btns a.theme-btn:hover {
@@ -1251,8 +1257,17 @@ html {
     background-color: #fff;
 }
 
+.about-content-part-bottom1 {
+    margin-top: 10px;
+    padding: 40px;
+    border: 1px solid rgba(0, 0, 0, 0.05);
+    border-radius: 20px;
+    box-shadow: rgba(255, 255, 255, 0.025) 0px 0.362176px 0.651917px -1px inset, rgba(255, 255, 255, 0.036) 0px 3px 5.4px -2px inset;
+    background-color: #fff;
+}
+
 .about-content-part-bottom {
-    margin-top: 30px;
+    margin-top: 10px;
 }
 
 .about-content-part-bottom h2 {
@@ -1336,7 +1351,7 @@ color: transparent;
 
 .about-social ul li {
     display: inline-block;
-    margin: 0px 8px;
+    margin: 10px 10px;
 }
 
 .about-social ul li a {
@@ -2417,6 +2432,7 @@ color: transparent;
 
 .footer-bottom .copyright-text a {
     color: var(--primary-color);
+font-weight: 600;
 }
 
 .extra-copyright p {
@@ -3111,6 +3127,15 @@ ul.blog_pagination li a:hover {
     text-align: center;
 }
 
+a.email {
+    color: var(--primary-color);
+    font-weight: 600;
+}
+
+a.phone{
+    color: var(--primary-color);
+    font-weight: 600;
+}
 .blog-area .owl-theme .owl-controls .owl-page span {
     display: block;
     width: 5px;
