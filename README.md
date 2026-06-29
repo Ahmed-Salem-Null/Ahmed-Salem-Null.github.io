@@ -1,9 +1,24 @@
 ## Hi, I'm Ahmed Salem
-Software Engineer. Coder by day, Gamer by night, Tech Enthusiast, Professional Wrestling super Fan. #TechInnovator<br/>     
+Software Engineer. Coder by day, Gamer by night, Tech Enthusiast, Professional Wrestling super Fan. <a class="email" href="https://x.com/AhmedSalem_Mask" target="_blank">#TechInnovator</a><br>
+My journey in the tech world has equipped me with a diverse skill set, allowing me to create impactful software that enhances user experiences.<br><br>
+Worked on more than 320+ projects in the last 19 years on a multitude of web based Projects.
+I put to good use on every project I work on. <br><br>Beyond coding, I’m continually exploring the latest trends in the tech landscape.<br><br>
+Highly experienced in:<br>
+- Front-end, Back-end Development.<br>
+- WordPress, Joomla, OpenCart Theme,Plugin Develop.<br>
+- Websites, Forums, Blogs, Communities Development.<br>
+- E-Commerce Solutions.<br>
+- Custom PHP App Development.<br>
+- Android, IOS Apps Development.<br>
+- Website Design, Customization, Management.<br>
+- User interface Development.<br>
+- API, SQL integration.<br>
+- Git Workflow Management.<br>
+- Code Review, Documentation.<br>
 
-## Connect with me  
+## Connect me  
 <div align="center">
-<a href="mailto:ahmedsalem@technologist.com" target="_blank">
+<a href="mailto:ahmedsalem@duck.com" target="_blank">
 <img src=https://img.shields.io/badge/email-%231E77B5.svg?&style=for-the-badge&logo=email&logoColor=white alt=email style="margin-bottom: 5px;" />
 </a>
 <a href="https://about.me/AhmedmSalem" target="_blank"><img src=https://img.shields.io/badge/about.me-%231E77B5.svg?&style=for-the-badge&logo=about.me&logoColor=white alt=about.me style="margin-bottom: 5px;" />
@@ -25,9 +40,6 @@ Software Engineer. Coder by day, Gamer by night, Tech Enthusiast, Professional W
 </a>
 </div>   
 <br/>  
-
-## Languages and Tools
-
 
 ![Languages and Tools](https://skillicons.dev/icons?i=html,css,php,laravel,phpstorm,less,sass,jquery,bootstrap,windicss,tailwindcss,redux,materialui,mysql,postgresql,sqlite,mongodb,dart,kotlin,flutter,github,gitlab,gradle,git,markdown,figma,firebase,wordpress,androidstudio,atom,heroku,idea,eclipse,ubuntu,docker,aws,gcp,stackoverflow,devto,mastodon,codepen,webflow,webstorm&theme=light&perline=16)
 
